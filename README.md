@@ -1,1 +1,1 @@
-# agnes: https://fronteciuj.github.io/agnes/agnesscott.html
+# agnes: https://fronteciuj.github.io/agnes/index.html
