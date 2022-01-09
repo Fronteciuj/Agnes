@@ -77,7 +77,7 @@ table tr td.right .control  input  {text-align:right; background-color: #ffffff;
 #helpPage             {position:relative; width:95%;}
 
 #pageHeader    {background-color:#788AA3; position:relative;}
-#headerBanner  {height:74px; background-image:url(./images/shell-headBlue.gif);
+#headerBanner  {height:74px; background: url(shell-headBlue.gif);
                 background-repeat:no-repeat; }
 
 /* myb: make pageBody width 100%, no need to do this on .menuBody */
